@@ -1,0 +1,155 @@
+query GetOrders {
+    orders(
+        first: 10,
+        after: null,
+        query: "(id:>1) AND (created_at:>=2025-03-24)"
+    ) {
+        nodes {
+            # Order Basic Information
+            id
+            name
+            createdAt
+            updatedAt
+            note
+            totalPriceSet {
+                presentmentMoney {
+                    amount
+                    currencyCode
+                }
+                shopMoney {
+                    amount
+                    currencyCode
+                }
+            }
+            
+            # Fulfillment Information
+            displayFulfillmentStatus
+            fulfillments(first: 10) {
+                id
+                name
+                status
+                location {
+                    id
+                    name
+                }
+                fulfillmentLineItems(first: 10) {
+                    nodes {
+                        id
+                        lineItem {
+                            id
+                            sku
+                            name
+                            variantTitle
+                            vendor
+                            quantity
+                            originalTotalSet {
+                                presentmentMoney {
+                                    amount
+                                    currencyCode
+                                }
+                                shopMoney {
+                                    amount
+                                    currencyCode
+                                }
+                            }
+                            originalUnitPriceSet {
+                                presentmentMoney {
+                                    amount
+                                    currencyCode
+                                }
+                                shopMoney {
+                                    amount
+                                    currencyCode
+                                }
+                            }
+                            discountAllocations {
+                                allocatedAmountSet {
+                                    presentmentMoney {
+                                        amount
+                                        currencyCode
+                                    }
+                                    shopMoney {
+                                        amount
+                                        currencyCode
+                                    }
+                                }
+                            }
+                            duties {
+                                price {
+                                    presentmentMoney {
+                                        amount
+                                        currencyCode
+                                    }
+                                    shopMoney {
+                                        amount
+                                        currencyCode
+                                    }
+                                }
+                            }
+                            taxLines(first: 10) {
+                                title
+                                priceSet {
+                                    presentmentMoney {
+                                        amount
+                                        currencyCode
+                                    }
+                                    shopMoney {
+                                        amount
+                                        currencyCode
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            
+            nonFulfillableLineItems(first: 10) {
+                nodes {
+                    id
+                    name
+                }
+            }
+
+            # Customer Information
+            customer {
+                defaultAddress {
+                    address1
+                    address2
+                    city
+                    zip
+                    country
+                }
+            }
+
+            # Shipping Information
+            shippingAddress {
+                address1
+                address2
+                city
+                zip
+                country
+            }
+            shippingLine {
+                carrierIdentifier
+                title
+                code
+                deliveryCategory
+                currentDiscountedPriceSet {
+                    presentmentMoney {
+                        amount
+                        currencyCode
+                    }
+                    shopMoney {
+                        amount
+                        currencyCode
+                    }
+                }
+            }
+        }
+        pageInfo {
+            endCursor
+            hasNextPage
+        }
+    }
+}
