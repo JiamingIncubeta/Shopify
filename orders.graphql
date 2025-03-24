@@ -1,8 +1,8 @@
 query GetOrders {
     orders(
-        first: 10,
+        first: 100,
         after: null,
-        query: "(id:>1) AND (created_at:>=2025-03-24)"
+        query: "(id:>1) AND (created_at:>=2025-03-23)"
     ) {
         nodes {
             # Order Basic Information
@@ -103,13 +103,6 @@ query GetOrders {
                     }
                 }
             }
-            
-            nonFulfillableLineItems(first: 10) {
-                nodes {
-                    id
-                    name
-                }
-            }
 
             # Customer Information
             customer {
@@ -153,3 +146,4 @@ query GetOrders {
         }
     }
 }
+"""
