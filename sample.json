@@ -1,0 +1,493 @@
+{
+  "data": {
+    "orders": {
+      "nodes": [
+        {
+          "id": "gid://shopify/Order/6356485767457",
+          "name": "#C21-84157",
+          "createdAt": "2025-03-25T16:03:45Z",
+          "updatedAt": "2025-03-25T16:18:55Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "136.01",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "136.01",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6356488159521",
+          "name": "#C21-84158",
+          "createdAt": "2025-03-25T16:05:07Z",
+          "updatedAt": "2025-03-25T16:20:17Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "1630.74",
+              "currencyCode": "HKD"
+            },
+            "shopMoney": {
+              "amount": "280.05",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6356582695201",
+          "name": "#C21-84159",
+          "createdAt": "2025-03-25T17:13:53Z",
+          "updatedAt": "2025-03-26T01:09:07Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "2750.4",
+              "currencyCode": "HKD"
+            },
+            "shopMoney": {
+              "amount": "472.46",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "PARTIALLY_FULFILLED",
+          "fulfillments": [
+            {
+              "id": "gid://shopify/Fulfillment/5640525971745",
+              "name": "#C21-84159-F1",
+              "status": "SUCCESS",
+              "location": {
+                "id": "gid://shopify/Location/74092970273",
+                "name": "051 - Club21 Warehouse @ Toh Guan"
+              },
+              "fulfillmentLineItems": {
+                "nodes": [
+                  {
+                    "id": "gid://shopify/FulfillmentLineItem/13538546155809",
+                    "lineItem": {
+                      "id": "gid://shopify/LineItem/15596274352417",
+                      "sku": "600067430GRYXXL",
+                      "name": "Black Emblem On Gray Tee Unisex - XXL / Grey",
+                      "variantTitle": "XXL / Grey",
+                      "vendor": "COMME des GARCONS PLAY",
+                      "quantity": 1,
+                      "originalTotalSet": {
+                        "presentmentMoney": {
+                          "amount": "485.0",
+                          "currencyCode": "HKD"
+                        },
+                        "shopMoney": {
+                          "amount": "83.31",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "originalUnitPriceSet": {
+                        "presentmentMoney": {
+                          "amount": "485.0",
+                          "currencyCode": "HKD"
+                        },
+                        "shopMoney": {
+                          "amount": "83.31",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "discountAllocations": [
+                        {
+                          "allocatedAmountSet": {
+                            "presentmentMoney": {
+                              "amount": "97.0",
+                              "currencyCode": "HKD"
+                            },
+                            "shopMoney": {
+                              "amount": "16.66",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ],
+                      "duties": [
+                        {
+                          "price": {
+                            "presentmentMoney": {
+                              "amount": "0.0",
+                              "currencyCode": "HKD"
+                            },
+                            "shopMoney": {
+                              "amount": "0.0",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ],
+                      "taxLines": [
+                        {
+                          "title": "TAX",
+                          "priceSet": {
+                            "presentmentMoney": {
+                              "amount": "0.0",
+                              "currencyCode": "HKD"
+                            },
+                            "shopMoney": {
+                              "amount": "0.0",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id": "gid://shopify/FulfillmentLineItem/13538546188577",
+                    "lineItem": {
+                      "id": "gid://shopify/LineItem/15596274385185",
+                      "sku": "600067429WHT00M",
+                      "name": "Big Black Heart Tee Unisex - M / White",
+                      "variantTitle": "M / White",
+                      "vendor": "COMME des GARCONS PLAY",
+                      "quantity": 1,
+                      "originalTotalSet": {
+                        "presentmentMoney": {
+                          "amount": "485.0",
+                          "currencyCode": "HKD"
+                        },
+                        "shopMoney": {
+                          "amount": "83.31",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "originalUnitPriceSet": {
+                        "presentmentMoney": {
+                          "amount": "485.0",
+                          "currencyCode": "HKD"
+                        },
+                        "shopMoney": {
+                          "amount": "83.31",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "discountAllocations": [
+                        {
+                          "allocatedAmountSet": {
+                            "presentmentMoney": {
+                              "amount": "97.0",
+                              "currencyCode": "HKD"
+                            },
+                            "shopMoney": {
+                              "amount": "16.66",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ],
+                      "duties": [
+                        {
+                          "price": {
+                            "presentmentMoney": {
+                              "amount": "0.0",
+                              "currencyCode": "HKD"
+                            },
+                            "shopMoney": {
+                              "amount": "0.0",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ],
+                      "taxLines": [
+                        {
+                          "title": "TAX",
+                          "priceSet": {
+                            "presentmentMoney": {
+                              "amount": "0.0",
+                              "currencyCode": "HKD"
+                            },
+                            "shopMoney": {
+                              "amount": "0.0",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6356587118881",
+          "name": "#C21-84160",
+          "createdAt": "2025-03-25T17:17:12Z",
+          "updatedAt": "2025-03-25T17:32:22Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "59.99",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "59.99",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6356596916513",
+          "name": "#C21-84161",
+          "createdAt": "2025-03-25T17:24:19Z",
+          "updatedAt": "2025-03-25T17:45:03Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "2730.0",
+              "currencyCode": "MYR"
+            },
+            "shopMoney": {
+              "amount": "821.98",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6356776321313",
+          "name": "#C21-84162",
+          "createdAt": "2025-03-25T19:36:24Z",
+          "updatedAt": "2025-03-26T01:22:38Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "674.0",
+              "currencyCode": "MYR"
+            },
+            "shopMoney": {
+              "amount": "203.02",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "PARTIALLY_FULFILLED",
+          "fulfillments": [
+            {
+              "id": "gid://shopify/Fulfillment/5640539767073",
+              "name": "#C21-84162-F1",
+              "status": "SUCCESS",
+              "location": {
+                "id": "gid://shopify/Location/74092970273",
+                "name": "051 - Club21 Warehouse @ Toh Guan"
+              },
+              "fulfillmentLineItems": {
+                "nodes": [
+                  {
+                    "id": "gid://shopify/FulfillmentLineItem/13538590294305",
+                    "lineItem": {
+                      "id": "gid://shopify/LineItem/15596622184737",
+                      "sku": "600059886GRY00M",
+                      "name": "Core-Jersey Crewneck T-Shirt Men - M / Grey",
+                      "variantTitle": "M / Grey",
+                      "vendor": "Fear of God ESSENTIALS",
+                      "quantity": 1,
+                      "originalTotalSet": {
+                        "presentmentMoney": {
+                          "amount": "390.0",
+                          "currencyCode": "MYR"
+                        },
+                        "shopMoney": {
+                          "amount": "117.48",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "originalUnitPriceSet": {
+                        "presentmentMoney": {
+                          "amount": "390.0",
+                          "currencyCode": "MYR"
+                        },
+                        "shopMoney": {
+                          "amount": "117.48",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "discountAllocations": [
+                        {
+                          "allocatedAmountSet": {
+                            "presentmentMoney": {
+                              "amount": "78.0",
+                              "currencyCode": "MYR"
+                            },
+                            "shopMoney": {
+                              "amount": "23.5",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ],
+                      "duties": [
+                        {
+                          "price": {
+                            "presentmentMoney": {
+                              "amount": "0.0",
+                              "currencyCode": "MYR"
+                            },
+                            "shopMoney": {
+                              "amount": "0.0",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ],
+                      "taxLines": [
+                        {
+                          "title": "TAX",
+                          "priceSet": {
+                            "presentmentMoney": {
+                              "amount": "0.0",
+                              "currencyCode": "MYR"
+                            },
+                            "shopMoney": {
+                              "amount": "0.0",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6357027062049",
+          "name": "#C21-84163",
+          "createdAt": "2025-03-25T23:20:05Z",
+          "updatedAt": "2025-03-25T23:35:13Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "183.49",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "183.49",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6357063794977",
+          "name": "#C21-84164",
+          "createdAt": "2025-03-25T23:57:57Z",
+          "updatedAt": "2025-03-26T02:08:58Z",
+          "note": "Upon checked, customer is ok to proceed for both item. \n\n***I informed that he can try it on upon receiving it, and if he not satisfied, we offer free exchange/return, since he's SG customer.\n\nWH may proceed to fulfil and ship out the order soonest. \n--\nBoth item have defect. Waiting CS to update ",
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "111.01",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "111.01",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6357116813601",
+          "name": "#C21-84165",
+          "createdAt": "2025-03-26T00:57:05Z",
+          "updatedAt": "2025-03-26T01:12:14Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "200.0",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "200.0",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6357118779681",
+          "name": "#C21-84166",
+          "createdAt": "2025-03-26T00:59:13Z",
+          "updatedAt": "2025-03-26T01:14:20Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "993.62",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "993.62",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "eyJsYXN0X2lkIjo2MzU3MTE4Nzc5NjgxLCJsYXN0X3ZhbHVlIjoiMjAyNS0wMy0yNiAwMDo1OTowOS44Mjg1NDAifQ==",
+        "hasNextPage": true
+      }
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 126,
+      "actualQueryCost": 26,
+      "throttleStatus": {
+        "maximumAvailable": 20000.0,
+        "currentlyAvailable": 19974,
+        "restoreRate": 1000.0
+      }
+    }
+  }
+}
