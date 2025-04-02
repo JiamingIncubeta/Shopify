@@ -1,0 +1,562 @@
+{
+  "data": {
+    "orders": {
+      "nodes": [
+        {
+          "id": "gid://shopify/Order/6365031432481",
+          "name": "#C21-84592",
+          "createdAt": "2025-03-31T16:06:45Z",
+          "updatedAt": "2025-03-31T16:22:00Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "606.67",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "606.67",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6365061841185",
+          "name": "#C21-84593",
+          "createdAt": "2025-03-31T16:27:54Z",
+          "updatedAt": "2025-03-31T16:43:03Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "144.5",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "144.5",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6365171843361",
+          "name": "#C21-84594",
+          "createdAt": "2025-03-31T17:35:13Z",
+          "updatedAt": "2025-03-31T17:50:23Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "1112.01",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "1112.01",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6365188096289",
+          "name": "#C21-84595",
+          "createdAt": "2025-03-31T17:46:10Z",
+          "updatedAt": "2025-03-31T18:01:19Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "117.0",
+              "currencyCode": "MYR"
+            },
+            "shopMoney": {
+              "amount": "35.44",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6365194682657",
+          "name": "#C21-84596",
+          "createdAt": "2025-03-31T17:50:38Z",
+          "updatedAt": "2025-03-31T18:05:49Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "157.27",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "157.27",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6365236298017",
+          "name": "#C21-84597",
+          "createdAt": "2025-03-31T18:18:25Z",
+          "updatedAt": "2025-03-31T22:27:58Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "1277.0",
+              "currencyCode": "USD"
+            },
+            "shopMoney": {
+              "amount": "1716.31",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6365297148193",
+          "name": "#C21-84598",
+          "createdAt": "2025-03-31T19:00:04Z",
+          "updatedAt": "2025-03-31T19:15:17Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "323.0",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "323.0",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6365303603489",
+          "name": "#C21-84599",
+          "createdAt": "2025-03-31T19:04:51Z",
+          "updatedAt": "2025-03-31T19:20:01Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "445.6",
+              "currencyCode": "USD"
+            },
+            "shopMoney": {
+              "amount": "598.9",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6365457547553",
+          "name": "#C21-84600",
+          "createdAt": "2025-03-31T21:08:03Z",
+          "updatedAt": "2025-03-31T21:23:14Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "161.47",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "161.47",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "UNFULFILLED",
+          "fulfillments": [],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "gid://shopify/Order/6365584589089",
+          "name": "#C21-84601",
+          "createdAt": "2025-03-31T22:58:56Z",
+          "updatedAt": "2025-04-01T12:30:19Z",
+          "note": null,
+          "totalPriceSet": {
+            "presentmentMoney": {
+              "amount": "275.37",
+              "currencyCode": "SGD"
+            },
+            "shopMoney": {
+              "amount": "275.37",
+              "currencyCode": "SGD"
+            }
+          },
+          "displayFulfillmentStatus": "FULFILLED",
+          "fulfillments": [
+            {
+              "id": "gid://shopify/Fulfillment/5650315804961",
+              "name": "#C21-84601-F1",
+              "status": "SUCCESS",
+              "location": {
+                "id": "gid://shopify/Location/74092970273",
+                "name": "051 - Club21 Warehouse @ Toh Guan"
+              },
+              "fulfillmentLineItems": {
+                "nodes": [
+                  {
+                    "id": "gid://shopify/FulfillmentLineItem/13554241339681",
+                    "lineItem": {
+                      "id": "gid://shopify/LineItem/15612550316321",
+                      "sku": "100317527WHT003",
+                      "name": "Converse Red Sole High Top - 3 / White",
+                      "variantTitle": "3 / White",
+                      "vendor": "COMME des GARCONS PLAY CONVERSE",
+                      "quantity": 1,
+                      "originalTotalSet": {
+                        "presentmentMoney": {
+                          "amount": "211.01",
+                          "currencyCode": "SGD"
+                        },
+                        "shopMoney": {
+                          "amount": "211.01",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "originalUnitPriceSet": {
+                        "presentmentMoney": {
+                          "amount": "211.01",
+                          "currencyCode": "SGD"
+                        },
+                        "shopMoney": {
+                          "amount": "211.01",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "discountAllocations": [
+                        {
+                          "allocatedAmountSet": {
+                            "presentmentMoney": {
+                              "amount": "147.7",
+                              "currencyCode": "SGD"
+                            },
+                            "shopMoney": {
+                              "amount": "147.7",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ],
+                      "duties": [],
+                      "taxLines": [
+                        {
+                          "title": "GST",
+                          "priceSet": {
+                            "presentmentMoney": {
+                              "amount": "5.7",
+                              "currencyCode": "SGD"
+                            },
+                            "shopMoney": {
+                              "amount": "5.7",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id": "gid://shopify/FulfillmentLineItem/13554241372449",
+                    "lineItem": {
+                      "id": "gid://shopify/LineItem/15612550349089",
+                      "sku": "100166635BLK00L",
+                      "name": "PLAY Logo On Front And Back Tee Women - L (2) / Black",
+                      "variantTitle": "L (2) / Black",
+                      "vendor": "COMME des GARCONS PLAY",
+                      "quantity": 1,
+                      "originalTotalSet": {
+                        "presentmentMoney": {
+                          "amount": "109.0",
+                          "currencyCode": "SGD"
+                        },
+                        "shopMoney": {
+                          "amount": "109.0",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "originalUnitPriceSet": {
+                        "presentmentMoney": {
+                          "amount": "109.0",
+                          "currencyCode": "SGD"
+                        },
+                        "shopMoney": {
+                          "amount": "109.0",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "discountAllocations": [
+                        {
+                          "allocatedAmountSet": {
+                            "presentmentMoney": {
+                              "amount": "76.3",
+                              "currencyCode": "SGD"
+                            },
+                            "shopMoney": {
+                              "amount": "76.3",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ],
+                      "duties": [],
+                      "taxLines": [
+                        {
+                          "title": "GST",
+                          "priceSet": {
+                            "presentmentMoney": {
+                              "amount": "2.94",
+                              "currencyCode": "SGD"
+                            },
+                            "shopMoney": {
+                              "amount": "2.94",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id": "gid://shopify/FulfillmentLineItem/13554241405217",
+                    "lineItem": {
+                      "id": "gid://shopify/LineItem/15612550381857",
+                      "sku": "100250320GRN00S",
+                      "name": "Light Green Tee With Big Red Heart Men - S / Green",
+                      "variantTitle": "S / Green",
+                      "vendor": "COMME des GARCONS PLAY",
+                      "quantity": 1,
+                      "originalTotalSet": {
+                        "presentmentMoney": {
+                          "amount": "100.0",
+                          "currencyCode": "SGD"
+                        },
+                        "shopMoney": {
+                          "amount": "100.0",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "originalUnitPriceSet": {
+                        "presentmentMoney": {
+                          "amount": "100.0",
+                          "currencyCode": "SGD"
+                        },
+                        "shopMoney": {
+                          "amount": "100.0",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "discountAllocations": [
+                        {
+                          "allocatedAmountSet": {
+                            "presentmentMoney": {
+                              "amount": "70.0",
+                              "currencyCode": "SGD"
+                            },
+                            "shopMoney": {
+                              "amount": "70.0",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ],
+                      "duties": [],
+                      "taxLines": [
+                        {
+                          "title": "GST",
+                          "priceSet": {
+                            "presentmentMoney": {
+                              "amount": "2.7",
+                              "currencyCode": "SGD"
+                            },
+                            "shopMoney": {
+                              "amount": "2.7",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id": "gid://shopify/FulfillmentLineItem/13554241437985",
+                    "lineItem": {
+                      "id": "gid://shopify/LineItem/15612550414625",
+                      "sku": "600053132WHT008",
+                      "name": "Small Red Heart High Top - 8 / White",
+                      "variantTitle": "8 / White",
+                      "vendor": "COMME des GARCONS PLAY CONVERSE",
+                      "quantity": 1,
+                      "originalTotalSet": {
+                        "presentmentMoney": {
+                          "amount": "211.01",
+                          "currencyCode": "SGD"
+                        },
+                        "shopMoney": {
+                          "amount": "211.01",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "originalUnitPriceSet": {
+                        "presentmentMoney": {
+                          "amount": "211.01",
+                          "currencyCode": "SGD"
+                        },
+                        "shopMoney": {
+                          "amount": "211.01",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "discountAllocations": [
+                        {
+                          "allocatedAmountSet": {
+                            "presentmentMoney": {
+                              "amount": "147.7",
+                              "currencyCode": "SGD"
+                            },
+                            "shopMoney": {
+                              "amount": "147.7",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ],
+                      "duties": [],
+                      "taxLines": [
+                        {
+                          "title": "GST",
+                          "priceSet": {
+                            "presentmentMoney": {
+                              "amount": "5.7",
+                              "currencyCode": "SGD"
+                            },
+                            "shopMoney": {
+                              "amount": "5.7",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id": "gid://shopify/FulfillmentLineItem/13554241470753",
+                    "lineItem": {
+                      "id": "gid://shopify/LineItem/15612550447393",
+                      "sku": "600053132WHT004",
+                      "name": "Small Red Heart High Top - 4 / White",
+                      "variantTitle": "4 / White",
+                      "vendor": "COMME des GARCONS PLAY CONVERSE",
+                      "quantity": 1,
+                      "originalTotalSet": {
+                        "presentmentMoney": {
+                          "amount": "211.01",
+                          "currencyCode": "SGD"
+                        },
+                        "shopMoney": {
+                          "amount": "211.01",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "originalUnitPriceSet": {
+                        "presentmentMoney": {
+                          "amount": "211.01",
+                          "currencyCode": "SGD"
+                        },
+                        "shopMoney": {
+                          "amount": "211.01",
+                          "currencyCode": "SGD"
+                        }
+                      },
+                      "discountAllocations": [
+                        {
+                          "allocatedAmountSet": {
+                            "presentmentMoney": {
+                              "amount": "147.7",
+                              "currencyCode": "SGD"
+                            },
+                            "shopMoney": {
+                              "amount": "147.7",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ],
+                      "duties": [],
+                      "taxLines": [
+                        {
+                          "title": "GST",
+                          "priceSet": {
+                            "presentmentMoney": {
+                              "amount": "5.7",
+                              "currencyCode": "SGD"
+                            },
+                            "shopMoney": {
+                              "amount": "5.7",
+                              "currencyCode": "SGD"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "fulfillmentOrders": {
+            "nodes": []
+          }
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "eyJsYXN0X2lkIjo2MzY1NTg0NTg5MDg5LCJsYXN0X3ZhbHVlIjoiMjAyNS0wMy0zMSAyMjo1ODo1Mi4wNjQ2NjAifQ==",
+        "hasNextPage": true
+      }
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 126,
+      "actualQueryCost": 26,
+      "throttleStatus": {
+        "maximumAvailable": 20000.0,
+        "currentlyAvailable": 19974,
+        "restoreRate": 1000.0
+      }
+    }
+  }
+}
